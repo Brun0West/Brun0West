@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bruno Pumapillo</h1>
 <h3 align="center">Student at UNMSM, Peru🌟.</h3>
 
+<br>
+
+- 🌱 I’m currently learning Web Development, Data Science and other programming languages
+
+- 📫 How to reach me **thulobruno@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+
 <!--
 **Brun0West/Brun0West** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
