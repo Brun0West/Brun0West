@@ -10,6 +10,29 @@
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="www.linkedin.com/in/bruno-pumapillo-sarmiento-a01a81239" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://web.facebook.com/bruno.pumapillo" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <!--<a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>-->
+  <a href="https://leetcode.com/u/Brunitozz/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+ <a href="https://x.com/Brupuma" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
+
+<br>
+
 <!--
 **Brun0West/Brun0West** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
