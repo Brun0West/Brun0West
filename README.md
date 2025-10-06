@@ -1,38 +1,26 @@
-<h1 align="center">Hi 👋, I'm Bruno Pumapillo</h1>
-<h3 align="center">Student at UNMSM, Peru🌟.</h3>
+# Hi 👋, I'm Bruno Pumapillo
 
-<br>
+### Student at UNMSM, Peru 🌟
 
-- 🌱 I’m currently learning Web Development, Data Science and other programming languages
-
+- 🌱 I'm currently learning Web Development, Data Science and other programming languages
 - 📫 How to reach me **thulobruno@gmail.com**
+- ⚡ Fun fact: Food and Music 🎵 are the reasons to live
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+## Connect with me:
 
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/bruno-pumapillo-sarmiento-a01a81239)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://web.facebook.com/bruno.pumapillo)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://x.com/Brupuma)
 
-<br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/bruno-pumapillo-sarmiento-a01a81239" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://web.facebook.com/bruno.pumapillo" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <!--<a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>-->
-  <!--<a href="https://leetcode.com/u/Brunitozz/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
- <a href="https://x.com/Brupuma" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats:
 
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brun0WestB&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Brun0West&theme=merko&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0West&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **Brun0West/Brun0West** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
