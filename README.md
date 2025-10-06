@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brun0WestB&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brun0West&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Brun0West&theme=merko&hide_border=false)
 
