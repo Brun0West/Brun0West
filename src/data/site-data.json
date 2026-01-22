@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "profesion": "Estudiante de Ing de Software",
+    "nombre": "Bruno Pumapillo Sarmiento",
+    "loQueHago": "Desarrollo Web y Data Science",
+    "acercaDeMi": "Bruno Pumapillo Sarmiento",
+    "descripcion": "Estudiante de Ingeniería de Software apasionado por la creación de soluciones tecnológicas innovadoras. Me especializo en el desarrollo de aplicaciones web y en el análisis de datos, combinando programación, diseño de arquitecturas eficientes y exploración de información para generar valor real.\nMe motiva aprender constantemente, experimentar con nuevas tecnologías y aplicar metodologías que integren la lógica algorítmica con el uso práctico de frameworks y herramientas modernas.\nActualmente, me encuentro desarrollando proyectos que abarcan desde plataformas web hasta modelos de ciencia de datos, con la visión de crecer hacia el liderazgo de equipos de innovación y contribuir a soluciones éticas basadas en IA.",
+    "palabrasClave": [
+      "frontend",
+      "contratame"
+    ],
+    "imagen": "https://i.postimg.cc/2S8d6qs3/Generated-Image-November-20-2025-11-38AM.png",
+    "email": "thulobruno@gmail.com",
+    "apodo": "BrunoWest0"
+  },
+  "socialLinks": [
+    {
+      "redSocial": "X",
+      "link": "https://x.com/Brupuma",
+      "logo": "https://cdn.simpleicons.org/x"
+    },
+    {
+      "redSocial": "Github",
+      "link": "https://github.com/Brun0West",
+      "logo": "https://cdn.simpleicons.org/github"
+    },
+    {
+      "redSocial": "Linkedin",
+      "link": "https://www.linkedin.com/in/bruno-pumapillo-sarmiento/",
+      "logo": "https://cdn-icons-png.freepik.com/512/49/49656.png"
+    },
+    {
+      "redSocial": "Bandlab",
+      "link": "https://www.bandlab.com/brunazo_pumpalillo",
+      "logo": "https://cdn.simpleicons.org/bandlab"
+    }
+  ],
+  "projects": [
+    {
+      "nombre": "Sistema de nose que más",
+      "description": "En este proyecto fuimos unos verdaderos capos y capas",
+      "link": "pendejo.com",
+      "tecnologias": [
+        "javascript",
+        "C++",
+        "Java",
+        "Python",
+        "michipy"
+      ],
+      "imagen": "https://cataas.com/cat?width=640&height=448"
+    }
+  ],
+  "lastUpdated": "2026-01-22T22:57:58.894Z"
+}

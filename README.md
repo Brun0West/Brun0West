@@ -18,7 +18,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brun0West&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Brun0West&theme=merko&hide_border=false)
+<!-- ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Brun0West&theme=merko&hide_border=false) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0West&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
