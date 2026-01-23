@@ -15,7 +15,58 @@ const t = useTranslations('es'); // Forzamos español por ahora o detectamos
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{profile.apodo}</title>
+    
+    <!-- Google Search Console Verification -->
+    <meta name="google-site-verification" content="googlee460e4cf88b4d148" />
+    
+    <!-- Primary Meta Tags -->
+    <title>{profile.nombre} - {profile.profesion} | Portfolio</title>
+    <meta name="title" content="{profile.nombre_completo} - {profile.titulo_profesional} | Portfolio">
+    <meta name="description" content="{profile.descripcion_breve || 'Desarrollador Full Stack especializado en tecnologías modernas. Explora mi portfolio y experiencia profesional.'}">
+    <meta name="keywords" content="desarrollador, programador, portfolio, {profile.habilidades_principales || 'JavaScript, Python, React, Node.js'}, {profile.ubicacion}">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="Spanish">
+    <meta name="author" content="{profile.nombre_completo}">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://Brun0West.github.io/Brun0West/">
+    <meta property="og:title" content="{profile.nombre_completo} - {profile.titulo_profesional} | Portfolio">
+    <meta property="og:description" content="{profile.descripcion_breve || 'Desarrollador Full Stack especializado en tecnologías modernas. Explora mi portfolio y experiencia profesional.'}">
+    <meta property="og:image" content="https://Brun0West.github.io/Brun0West/images/profile-photo.jpg">
+    <meta property="og:locale" content="es_ES">
+    <meta property="og:site_name" content="{profile.nombre_completo} - Portfolio">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://Brun0West.github.io/Brun0West/">
+    <meta property="twitter:title" content="{profile.nombre_completo} - {profile.titulo_profesional} | Portfolio">
+    <meta property="twitter:description" content="{profile.descripcion_breve || 'Desarrollador Full Stack especializado en tecnologías modernas. Explora mi portfolio y experiencia profesional.'}">
+    <meta property="twitter:image" content="https://Brun0West.github.io/Brun0West/images/profile-photo.jpg">
+    
+    <!-- Additional SEO -->
+    <meta name="theme-color" content="#2563eb">
+    <link rel="canonical" href="https://Brun0West.github.io/Brun0West/">
+    
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "{profile.nombre_completo}",
+      "jobTitle": "{profile.titulo_profesional}",
+      "url": "https://Brun0West.github.io/Brun0West/",
+      "sameAs": [
+        "{socialLinks?.linkedin}",
+        "{socialLinks?.github}",
+        "{socialLinks?.twitter || ''}"
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Freelance"
+      }
+    }
+    </script>
 </head>
 <body>
     <!-- Navigation -->
