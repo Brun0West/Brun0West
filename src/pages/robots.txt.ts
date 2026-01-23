@@ -1,10 +1,9 @@
 // src/pages/robots.txt.ts
 export async function GET() {
-  const robotsTxt = `
-User-agent: *
+  const robotsTxt = `User-agent: *
 Allow: /
 
-Sitemap: https://brun0west.github.io/Brun0West/sitemap-index.xml
+Sitemap: https://brun0west.github.io/Brun0West/sitemap-0.xml
 `;
 
   return new Response(robotsTxt, {
