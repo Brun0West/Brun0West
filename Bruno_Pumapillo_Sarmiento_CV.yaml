@@ -1,6 +1,8 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 # con este comando correr para más orden:
-# rendercv render Bruno_Pumapillo_Sarmiento_CV.yaml --pdf-path ./public/docs/MyCV.pdf
+
+
+# rendercv render Bruno_Pumapillo_Sarmiento_CV.yaml -notyp -nomd -nohtml -nopng --pdf-path ./public/docs/MyCV.pdf
 cv:
   name: Bruno Pumapillo Sarmiento
   headline:

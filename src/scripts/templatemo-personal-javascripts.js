@@ -166,7 +166,7 @@
         const profileImage = document.getElementById('profile-image');
         if (profileImage) {
             profileImage.addEventListener('dblclick', () => {
-                window.open('/Brun0West/docs/MyCV.pdf', '_blank');
+                window.open('/Brun0West/cv', '_blank');
             });
             
             // Add cursor pointer style to indicate it's clickable
