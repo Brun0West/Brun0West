@@ -70,7 +70,7 @@ const t = useTranslations('es'); // Forzamos español por ahora o detectamos
         <div class="container">
             <h2 class="section-title fade-in">{t('about.title')}</h2>
             <div class="about-content">
-                <img class="about-image slide-in-left" src={profile.imagen} alt={profile.nombre}>
+                <img id="profile-image" class="about-image slide-in-left" src={profile.imagen} alt={profile.nombre}>
                 <div class="about-text slide-in-right">
                     <h3>{profile.acercaDeMi}</h3>
                     <p>{profile.descripcion}</p>

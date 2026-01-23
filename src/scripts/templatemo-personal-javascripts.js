@@ -161,3 +161,14 @@
                 document.body.style.overflow = 'auto';
             }
         });
+
+        // Double click on profile image to open CV
+        const profileImage = document.getElementById('profile-image');
+        if (profileImage) {
+            profileImage.addEventListener('dblclick', () => {
+                window.open('/Brun0West/docs/MyCV.pdf', '_blank');
+            });
+            
+            // Add cursor pointer style to indicate it's clickable
+            profileImage.style.cursor = 'pointer';
+        }
