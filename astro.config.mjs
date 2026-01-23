@@ -3,7 +3,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Brun0West.github.io',
+  site: 'https://brun0west.github.io',
   base: '/Brun0West',
   output: 'static',
   integrations: [

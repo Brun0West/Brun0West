@@ -4,7 +4,7 @@ export async function GET() {
 User-agent: *
 Allow: /
 
-Sitemap: https://Brun0West.github.io/Brun0West/sitemap.xml
+Sitemap: https://brun0west.github.io/Brun0West/sitemap-index.xml
 `;
 
   return new Response(robotsTxt, {
