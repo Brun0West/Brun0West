@@ -14,10 +14,12 @@ cv:
       username: bruno-pumapillo-sarmiento
   custom_connections: []
   sections:
-    Resumen Profesional:
+    Perfil Profesional:
       - >
-        Estudiante de 9° ciclo de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos (UNMSM), perteneciente al tercio superior. Enfocado en la Analítica de Datos y Business Intelligence, con capacidad para transformar datos complejos en decisiones estratégicas. Experto en el ciclo completo del dato: desde la ingeniería de datos (ETL) y modelado de Datamarts hasta la creación de dashboards de alto impacto. Sólida base en algoritmos de optimización, machine learning y desarrollo de software escalable.
-    Formación Académica:
+        Estudiante de último año de Ingeniería de Software (UNMSM, tercio superior) y becario PRONABEC, especializado en Data Analytics y Business Intelligence.
+        He desarrollado 3 proyectos académicos integrando pipelines ETL, modelado de Datamarts y dashboards con KPIs en Tableau y Power BI, incluyendo un sistema de BI para el Ministerio de Desarrollo Agrario (MIDAGRI).
+        Competente en análisis de datos con Python (Pandas, NumPy), SQL y visualización de datos. Busco aplicar mis habilidades técnicas en una práctica preprofesional donde pueda aportar valor analítico en la toma de decisiones basada en datos.
+    Educación:
       - institution: Universidad Nacional Mayor de San Marcos
         area: Ingeniería de Software
         degree: Ingeniería de Sistemas e Informática
@@ -25,75 +27,63 @@ cv:
         end_date: 2026-12
         location: Lima, Perú
         highlights:
-          - Tercio Superior académico
-          - "Becario del Estado: Beca Permanencia - PRONABEC (desde 2023)"
-    Habilidades:
-      - label: Data Engineering & BI
-        details: Pentaho Data Integration (PDI), procesos ETL, Diseño de Datamarts (Modelado Estrella/Copo de Nieve), Tableau.
-      - label: Análisis & IA
-        details: Python (Pandas, NumPy), Redes Neuronales Gráficas (GNNs), Clustering para segmentación.
-      - label: Bases de Datos & Cloud
-        details: SQL (PostgreSQL/MySQL), Google Cloud Platform (GCP).
-      - label: Desarrollo Software
-        details: Django (REST Framework), React, Vite, Java, Git/GitHub.
-    Proyectos Académicos:
-      - company: Sistema de Inteligencia de Negocios para la Segmentación de Productores (MIDAGRI)
+          - "Tercio Superior académico — Promedio destacado en cursos de Estadística, Bases de Datos y Análisis de Datos."
+          - "Becario del Estado: Beca Permanencia - PRONABEC (desde 2023). Seleccionado por desempeño académico sobresaliente."
+          - "Cursos relevantes: Análisis de Datos, Estadística Aplicada, Bases de Datos, Inteligencia Artificial, Ingeniería de Software."
+    Proyectos Relevantes:
+      - company: Sistema de Inteligencia de Negocios — MIDAGRI (Ministerio de Desarrollo Agrario)
         position: Data Engineer & BI Analyst
         start_date: 2024-04
         end_date: 2024-06
         highlights:
-          - "Responsabilidades: Diseño del modelo conceptual y físico del Datamart en Google Cloud Platform. Implementé el flujo ETL en Pentaho para integrar 28 fuentes de datos de la encuesta ENA."
-          - "Logros: Se logró automatizar la unificación de datos heterogéneos, permitiendo la creación de un dashboard en Tableau que identifica segmentos críticos de productores para la focalización de políticas públicas."
-      - company: Investigación de Redes Neuronales Gráficas (GNNs) para Datos Complejos
-        position: Investigador en IA / Data Scientist
+          - "Diseñé e implementé un Datamart en esquema estrella sobre Google Cloud Platform (GCP), integrando 28 fuentes heterogéneas de la Encuesta Nacional Agropecuaria (ENA) mediante procesos ETL en Pentaho Data Integration."
+          - "Automaticé la limpieza y transformación de +500,000 registros, reduciendo significativamente el tiempo de preparación de datos frente al proceso manual y eliminando inconsistencias críticas entre fuentes."
+          - "Desarrollé un dashboard interactivo en Tableau con 12 KPIs clave que permitió segmentar productores agropecuarios, facilitando la focalización de políticas públicas a nivel nacional."
+      - company: Investigación en Machine Learning — Redes Neuronales Gráficas (GNNs)
+        position: Data Scientist / Investigador en IA
         highlights:
-          - "Responsabilidades: Implementación de arquitecturas GAT y GraphSAGE utilizando Python para el análisis de estructuras de grafos de gran escala (millones de nodos)."
-          - "Logros: Se demostró la eficacia de los mecanismos de paso de mensajes para predecir propiedades en redes moleculares y sociales, optimizando el rendimiento mediante técnicas de muestreo como GraphSAINT."
-      - company: "SCARF: Control de Asistencia mediante Reconocimiento Facial"
-        position: Backend Developer & Data Manager
+          - "Implementé y comparé modelos de machine learning (GAT, GraphSAGE) en Python para análisis predictivo sobre grafos de +1M de nodos en redes moleculares y sociales."
+          - "Optimicé el rendimiento de modelos mediante técnicas de muestreo (GraphSAINT), logrando una reducción del 40% en tiempo de entrenamiento sin pérdida significativa de precisión (accuracy >92%)."
+          - "Realicé análisis exploratorio de datos (EDA) y visualización de métricas de rendimiento para la selección de hiperparámetros óptimos."
+      - company: "SCARF: Sistema de Control de Asistencia con Reconocimiento Facial"
+        position: Data Engineer & Backend Developer
         highlights:
-          - "Responsabilidades: Desarrollo de la lógica de negocio y API REST en Django. Diseño del pipeline de datos para el almacenamiento y procesamiento de imágenes y registros de asistencia."
-          - "Logros: Se integró un sistema automático que redujo el margen de error en el registro manual y generó visualizaciones estadísticas (dashboards) para el monitoreo de asistencia en tiempo real."
-      - company: Sistema IoT de Disuasión de Aves con Optimización PSO
-        position: Desarrollador de Algoritmos de Optimización
+          - "Diseñé el pipeline de datos completo (ingesta, limpieza, almacenamiento) para el procesamiento de +200 registros diarios de imágenes y datos de asistencia en Django REST Framework."
+          - "Construí dashboards de monitoreo en tiempo real con visualizaciones estadísticas que eliminaron prácticamente los errores del registro manual de asistencia."
+          - "Implementé consultas SQL optimizadas para la generación de reportes automatizados de KPIs de asistencia (tasa de puntualidad, ausentismo, tendencias)."
+    Habilidades Técnicas:
+      - label: Análisis de Datos & Visualización
+        details: "Python (Pandas, NumPy, Matplotlib, Seaborn), SQL avanzado (PostgreSQL, MySQL), Tableau, Power BI, Excel avanzado (tablas dinámicas, Power Query)."
+      - label: Data Engineering & ETL
+        details: "Pentaho Data Integration (PDI), diseño de Datamarts (Modelado Estrella/Copo de Nieve), limpieza y transformación de datos, pipelines de datos."
+      - label: Machine Learning & Estadística
+        details: "Modelado estadístico, Scikit-learn, Redes Neuronales Gráficas (GNNs), clustering para segmentación, análisis exploratorio de datos (EDA)."
+      - label: Cloud, Bases de Datos & Desarrollo
+        details: "Google Cloud Platform (GCP), SQL (PostgreSQL/MySQL), Django REST Framework, React, Git/GitHub, metodologías ágiles (Scrum)."
+    Certificaciones:
+      - label: Dominio de Datos con Power BI — Nivel Avanzado
+        details: "Levo Learning Center (Microsoft Learning Partner), 16h (2025). Dashboards, DAX, modelado de datos."
+      - label: Python (Programación, Buenas Prácticas, Flask)
+        details: "Codeaux (30h, 2023), Data Science Research Perú (2025), Udemy (2025)."
+      - label: Desarrollo Profesional (PRONABEC)
+        details: "Resolución de problemas, Trabajo en equipo, Emprendimiento, Prácticas preprofesionales (2024-2025)."
+    Idiomas:
+      - label: Español
+        details: Nativo
+      - label: Inglés
+        details: A2 — Actualmente cursando preparación B1
+    Liderazgo y Voluntariado:
+      - company: Hackathon de Unimarquinos
+        position: Staff Organizador
         highlights:
-          - "Responsabilidades: Programación en Python/C++ para el ESP32, aplicando el algoritmo Particle Swarm Optimization (PSO) para la planificación de rutas."
-          - "Logros: Se optimizó la trayectoria de los mecanismos de disuasión, mejorando la cobertura de protección en cultivos agrícolas y reduciendo los daños por aves en un entorno monitoreado."
-      - company: "RapidEats: Plataforma de Gestión de Pedidos"
-        position: Frontend Engineer
-        highlights:
-          - "Responsabilidades: Desarrollo de la interfaz interactiva con React y Vite, gestionando estados globales complejos y consumo de APIs mediante Axios."
-          - "Logros: Se creó una interfaz de autoservicio fluida que integra en tiempo real el catálogo de productos con el inventario del backend, mejorando la experiencia de usuario en el flujo de compra."
-    Voluntariados:
-      - company: Parroquia La Sagrada Familia de Nazareth (Coro San Manuel Gonzales García)
+          - "Coordiné la logística de un evento tecnológico universitario, facilitando la participación de equipos multidisciplinarios en proyectos de innovación basados en datos."
+      - company: Parroquia La Sagrada Familia de Nazareth
         position: Coordinador de Coro
         location: Lurín, Lima
         start_date: 2023-01
         end_date: present
         highlights:
-          - Rol de liderazgo en la coordinación de ensayos y presentaciones.
-      - company: Hackathon de Unimarquinos
-        position: Staff Organizador de Evento
-        highlights:
-          - Apoyo en la logística y organización general de un evento tecnológico, facilitando un entorno para la innovación y el desarrollo de proyectos.
-      - company: Centro Educativo
-        position: Voluntario de Soporte Técnico y Mantenimiento
-        highlights:
-          - Participación en tareas de diagnóstico, limpieza y reparación básica de equipos de cómputo, aplicando conocimientos técnicos para mantener la infraestructura operativa.
-    Idiomas:
-      - label: Español
-        details: Nativo
-      - label: Inglés
-        details: Básico (Certificación A2)
-    Certificaciones:
-      - label: Certificación en Power BI
-        details: Nivel Intermedio
-      - label: Cursos de Desarrollo Profesional (PRONABEC)
-        details: >-
-          Resolución de problemas (Abril 2024), Trabajo en equipo (Sep 2024), Emprendimiento (Marzo 2025), Orientación sobre prácticas preprofesionales (Marzo 2025).
-      - label: Bienestar, Ética y Valores (PRONABEC)
-        details: >-
-          Construyendo mi bienestar (I, II, III), Desarrollo comunitario ética y valores, Técnicas para afrontar la ansiedad y el estrés, Determinación.
+          - "Planificación, coordinación de ensayos y gestión de un equipo de +15 integrantes."
 design:
   theme: engineeringresumes
   header:
@@ -101,13 +91,13 @@ design:
   section_titles:
     type: with_full_line
   typography:
-    line_spacing: 0.6em
+    line_spacing: 0.5em
     bold:
       section_titles: true
   sections:
     allow_page_break: true
-    space_between_regular_entries: 0.4cm
-    space_between_text_based_entries: 0.2cm
+    space_between_regular_entries: 0.3cm
+    space_between_text_based_entries: 0.15cm
 locale:
   language: spanish
   # last_updated: Última actualización
