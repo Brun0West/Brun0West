@@ -1,18 +1,27 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 # con este comando correr para más orden:
 
-
 # rendercv render Bruno_Pumapillo_Sarmiento_CV.yaml -nomd -nohtml -nopng --pdf-path ./public/docs/MyCV.pdf
 cv:
   name: Bruno Pumapillo Sarmiento
   location: Lima, Perú
   email: thulobruno@gmail.com
   phone: +51 916 223 067
+  photo: ".\\public\\images\\image.png"
   website: https://brun0west.github.io/Brun0West/
   social_networks:
     - network: LinkedIn
       username: bruno-pumapillo-sarmiento
-  custom_connections: []
+    - network: GitHub
+      username: Brun0West
+  custom_connections:
+    [
+        {
+          "placeholder": "74816804",
+          "url": "https://www.linkedin.com/in/bruno-pumapillo-sarmiento/detail/recent-activity/shares/",
+          "fontawesome_icon": "calendar-days",
+        },
+    ]
   sections:
     Perfil Profesional:
       - >
@@ -45,12 +54,12 @@ cv:
           - "Implementé y comparé modelos de machine learning (GAT, GraphSAGE) en Python para análisis predictivo sobre grafos de +1M de nodos en redes moleculares y sociales."
           - "Optimicé el rendimiento de modelos mediante técnicas de muestreo (GraphSAINT), logrando una reducción del 40% en tiempo de entrenamiento sin pérdida significativa de precisión (accuracy >92%)."
           - "Realicé análisis exploratorio de datos (EDA) y visualización de métricas de rendimiento para la selección de hiperparámetros óptimos."
-      - company: "SCARF: Sistema de Control de Asistencia con Reconocimiento Facial"
-        position: Data Engineer & Backend Developer
-        highlights:
-          - "Diseñé el pipeline de datos completo (ingesta, limpieza, almacenamiento) para el procesamiento de +200 registros diarios de imágenes y datos de asistencia en Django REST Framework."
-          - "Construí dashboards de monitoreo en tiempo real con visualizaciones estadísticas que eliminaron prácticamente los errores del registro manual de asistencia."
-          - "Implementé consultas SQL optimizadas para la generación de reportes automatizados de KPIs de asistencia (tasa de puntualidad, ausentismo, tendencias)."
+      # - company: "SCARF: Sistema de Control de Asistencia con Reconocimiento Facial"
+      #   position: Data Engineer & Backend Developer
+      #   highlights:
+      #     - "Diseñé el pipeline de datos completo (ingesta, limpieza, almacenamiento) para el procesamiento de +200 registros diarios de imágenes y datos de asistencia en Django REST Framework."
+      #     - "Construí dashboards de monitoreo en tiempo real con visualizaciones estadísticas que eliminaron prácticamente los errores del registro manual de asistencia."
+      #     - "Implementé consultas SQL optimizadas para la generación de reportes automatizados de KPIs de asistencia (tasa de puntualidad, ausentismo, tendencias)."
     Habilidades Técnicas:
       - label: Análisis de Datos & Visualización
         details: "Python (Pandas, NumPy, Matplotlib, Seaborn), SQL avanzado (PostgreSQL, MySQL), Tableau, Power BI, Excel avanzado (tablas dinámicas, Power Query)."
@@ -75,12 +84,14 @@ cv:
     Liderazgo y Voluntariado:
       - company: Hackathon de Unimarquinos
         position: Staff Organizador
+        start_date: 2025-03
+        end_date: 2025-04
         highlights:
           - "Coordiné la logística de un evento tecnológico universitario, facilitando la participación de equipos multidisciplinarios en proyectos de innovación basados en datos."
       - company: Parroquia La Sagrada Familia de Nazareth
         position: Coordinador de Coro
         location: Lurín, Lima
-        start_date: 2023-01
+        start_date: 2026-01
         end_date: present
         highlights:
           - "Planificación, coordinación de ensayos y gestión de un equipo de +15 integrantes."
@@ -133,7 +144,7 @@ locale:
   #   - Noviembre
   #   - Diciembre
 settings:
-  current_date: '2026-01-23'
+  current_date: "2026-01-23"
   render_command:
     design:
     locale:
