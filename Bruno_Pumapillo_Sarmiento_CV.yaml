@@ -7,7 +7,7 @@ cv:
   location: Lima, Perú
   email: thulobruno@gmail.com
   phone: +51 916 223 067
-  photo: ".\\public\\images\\image.png"
+  photo: "./public/images/image.png"
   website: https://brun0west.github.io/Brun0West/
   social_networks:
     - network: LinkedIn
