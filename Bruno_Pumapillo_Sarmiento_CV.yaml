@@ -17,7 +17,17 @@ cv:
   custom_connections:
     [
         {
-          "placeholder": "74816804",
+          "placeholder": "DNI: 74816804",
+          "url": "https://www.linkedin.com/in/bruno-pumapillo-sarmiento/detail/recent-activity/shares/",
+          "fontawesome_icon": "calendar-days",
+        },
+        {
+          "placeholder": "Dirección: AMIPLIACIÓN VILLA ALEJANDRO ETAPA 2 MZ. E1 LT. 11 Lurín, Lima",
+          "url": "https://www.linkedin.com/in/bruno-pumapillo-sarmiento/detail/recent-activity/shares/",
+          "fontawesome_icon": "calendar-days",
+        },
+        {
+          "placeholder": "RUC: 10748168040",
           "url": "https://www.linkedin.com/in/bruno-pumapillo-sarmiento/detail/recent-activity/shares/",
           "fontawesome_icon": "calendar-days",
         },
